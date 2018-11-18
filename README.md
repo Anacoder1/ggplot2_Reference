@@ -16,9 +16,9 @@ Find out more at https://ggplot2.tidyverse.org/
 | 7) [geom_count()][7] | Count overlapping points |
 | 8) [geom_density()][8] | Smoothed density estimates |
 | 9) [geom_density_2d()][9] | Contours of a 2D density estimate |
-| 10) [geom_dotplot()][10] | Dot plot |
-| 11) [geom_errorbarh()][11] | Horizontal error bars |
-| 12) [geom_hex()][12] | Hexagonal heatmap of 2D bin counts |
+|10) [geom_dotplot()][10] | Dot plot |
+|11) [geom_errorbarh()][11] | Horizontal error bars |
+|12) [geom_hex()][12] | Hexagonal heatmap of 2D bin counts |
 
 [1]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_abline().ipynb
 [2]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_bar().ipynb
