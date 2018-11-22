@@ -24,6 +24,10 @@ Find out more at https://ggplot2.tidyverse.org/
 | 15) [geom_errorbar()][15] | Vertical intervals: lines, crossbars & errorbars |
 | 16) [geom_map()][16] | Polygons from a reference map |
 | 17) [geom_line()][17] | Connect observations |
+| 18) [geom_point()][18] | Points |
+| 19) [geom_polygon()][19] | Polygons |
+| 20) [geom_qq_line()][20] | A quantile - quantile plot |
+| 21) [geom_quantile()][21] | Quantile regression |
 
 [1]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_abline().ipynb
 [2]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_bar().ipynb
@@ -42,3 +46,7 @@ Find out more at https://ggplot2.tidyverse.org/
 [15]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_errorbar().ipynb
 [16]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_map().ipynb
 [17]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_line().ipynb
+[18]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_point().ipynb
+[19]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_polygon().ipynb
+[20]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_qq_line().ipynb
+[21]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_quantile().ipynb
