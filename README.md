@@ -20,6 +20,10 @@ Find out more at https://ggplot2.tidyverse.org/
 | 11) [geom_errorbarh()][11] | Horizontal error bars |
 | 12) [geom_hex()][12] | Hexagonal heatmap of 2D bin counts |
 | 13) [geom_histogram()][13] | Histograms and frequency polygons |
+| 14) [geom_jitter()][14] | Jittered points |
+| 15) [geom_errorbar()][15] | Vertical intervals: lines, crossbars & errorbars |
+| 16) [geom_map()][16] | Polygons from a reference map |
+| 17) [geom_line()][17] | Connect observations |
 
 [1]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_abline().ipynb
 [2]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_bar().ipynb
@@ -34,3 +38,7 @@ Find out more at https://ggplot2.tidyverse.org/
 [11]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_errorbarh().ipynb
 [12]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_hex().ipynb
 [13]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_histogram().ipynb
+[14]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_jitter().ipynb
+[15]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_errorbar().ipynb
+[16]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_map().ipynb
+[17]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_line().ipynb
