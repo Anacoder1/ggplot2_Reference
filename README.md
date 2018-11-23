@@ -28,6 +28,10 @@ Find out more at https://ggplot2.tidyverse.org/
 | 19) [geom_polygon()][19] | Polygons |
 | 20) [geom_qq_line()][20] | A quantile - quantile plot |
 | 21) [geom_quantile()][21] | Quantile regression |
+| 22) [geom_ribbon()][22] | Ribbons and area plots |
+| 23) [geom_rug()][23] | Rug plots in the margins |
+| 24) [geom_segment()][24] | Line segments and curves |
+| 25) [geom_smooth()][25] | Smoothed conditional means |
 
 [1]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_abline().ipynb
 [2]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_bar().ipynb
@@ -50,3 +54,7 @@ Find out more at https://ggplot2.tidyverse.org/
 [19]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_polygon().ipynb
 [20]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_qq_line().ipynb
 [21]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_quantile().ipynb
+[22]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_ribbon().ipynb
+[23]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_rug().ipynb
+[24]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_segment().ipynb
+[25]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_smooth().ipynb
