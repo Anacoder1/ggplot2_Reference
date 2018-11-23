@@ -32,6 +32,11 @@ Find out more at https://ggplot2.tidyverse.org/
 | 23) [geom_rug()][23] | Rug plots in the margins |
 | 24) [geom_segment()][24] | Line segments and curves |
 | 25) [geom_smooth()][25] | Smoothed conditional means |
+| 26) [geom_spoke()][26] | Line segments parameterized by location, direction and distance |
+| 27) [geom_text()][27] | Text |
+| 28) [geom_raster()][28] | Rectangles |
+| 29) [geom_violin()][29] | Violin plot |
+| 30) [geom_sf()][30] | Visualize sf objects |
 
 [1]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_abline().ipynb
 [2]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_bar().ipynb
@@ -58,3 +63,8 @@ Find out more at https://ggplot2.tidyverse.org/
 [23]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_rug().ipynb
 [24]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_segment().ipynb
 [25]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_smooth().ipynb
+[26]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_spoke().ipynb
+[27]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_text().ipynb
+[28]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_raster().ipynb
+[29]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_violin().ipynb
+[30]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_sf().ipynb
