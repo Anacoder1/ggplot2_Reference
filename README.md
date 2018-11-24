@@ -48,6 +48,7 @@ Find out more at https://ggplot2.tidyverse.org/
 | 5) [stat_summary_2d()][35] | Bin and summarize in 2D (rectangles & hexagons) |
 | 6) [stat_summary_bin()][36] | Summarize y values at unique / binned x |
 | 7) [stat_unique()][37] | Remove duplicates |
+| 8) [stat_sf_coordinates()][38] | Extract coordinates from 'sf' objects |
 
 [1]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_abline().ipynb
 [2]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_bar().ipynb
@@ -86,3 +87,4 @@ Find out more at https://ggplot2.tidyverse.org/
 [35]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_summary_2d().ipynb
 [36]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_summary_bin().ipynb
 [37]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_unique().ipynb
+[38]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_sf_coordinates().ipynb
