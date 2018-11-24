@@ -45,6 +45,9 @@ Find out more at https://ggplot2.tidyverse.org/
 | 2) [stat_ellipse()][32] | Compute normal confidence ellipses |
 | 3) [stat_function()][33] | Compute function for each x value |
 | 4) [stat_identity()][34] | Leave data as is |
+| 5) [stat_summary_2d()][35] | Bin and summarize in 2D (rectangles & hexagons) |
+| 6) [stat_summary_bin()][36] | Summarize y values at unique / binned x |
+| 7) [stat_unique()][37] | Remove duplicates |
 
 [1]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_abline().ipynb
 [2]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_bar().ipynb
@@ -80,3 +83,6 @@ Find out more at https://ggplot2.tidyverse.org/
 [32]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_ellipse().ipynb
 [33]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_function().ipynb
 [34]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_identity().ipynb
+[35]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_summary_2d().ipynb
+[36]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_summary_bin().ipynb
+[37]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_unique().ipynb
