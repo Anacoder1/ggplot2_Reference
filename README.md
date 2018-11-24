@@ -38,6 +38,14 @@ Find out more at https://ggplot2.tidyverse.org/
 | 29) [geom_violin()][29] | Violin plot |
 | 30) [geom_sf()][30] | Visualize sf objects |
 
+## Layer - stats
+| Function | Description |
+| --- | --- |
+| 1) [stat_ecdf()][31] | Compute empirical cumulative distribution |
+| 2) [stat_ellipse()][32] | Compute normal confidence ellipses |
+| 3) [stat_function()][33] | Compute function for each x value |
+| 4) [stat_identity()][34] | Leave data as is |
+
 [1]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_abline().ipynb
 [2]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_bar().ipynb
 [3]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_bin2d().ipynb
@@ -68,3 +76,7 @@ Find out more at https://ggplot2.tidyverse.org/
 [28]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_raster().ipynb
 [29]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_violin().ipynb
 [30]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_sf().ipynb
+[31]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_ecdf().ipynb
+[32]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_ellipse().ipynb
+[33]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_function().ipynb
+[34]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_identity().ipynb
