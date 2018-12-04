@@ -50,6 +50,13 @@ Find out more at https://ggplot2.tidyverse.org/
 | 7) [stat_unique()][37] | Remove duplicates |
 | 8) [stat_sf_coordinates()][38] | Extract coordinates from 'sf' objects |
 
+## Layer - position adjustment
+| Function | Description |
+| --- | --- |
+| 1) [position_dodge()][39] | Dodge overlapping objects side - to - side |
+| 2) [position_identity()][40] | Don't adjust position |
+| 3) [position_jitter()][41] | Jitter points to avoid overplotting |
+
 [1]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_abline().ipynb
 [2]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_bar().ipynb
 [3]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_bin2d().ipynb
@@ -88,3 +95,6 @@ Find out more at https://ggplot2.tidyverse.org/
 [36]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_summary_bin().ipynb
 [37]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_unique().ipynb
 [38]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20stats/stat_sf_coordinates().ipynb
+[39]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20position%20adjustment/position_dodge().ipynb
+[40]: https://ggplot2.tidyverse.org/reference/position_identity.html
+[41]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20position%20adjustment/position_jitter().ipynb
