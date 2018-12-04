@@ -56,6 +56,9 @@ Find out more at https://ggplot2.tidyverse.org/
 | 1) [position_dodge()][39] | Dodge overlapping objects side - to - side |
 | 2) [position_identity()][40] | Don't adjust position |
 | 3) [position_jitter()][41] | Jitter points to avoid overplotting |
+| 4) [position_jitterdodge()][42] | Simultaneously dodge and jitter |
+| 5) [position_nudge()][43] | Nudge points a fixed distance |
+| 6) [position_stack()][44] | Stack overlapping objects on top of each another |
 
 [1]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_abline().ipynb
 [2]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20geoms/geom_bar().ipynb
@@ -98,3 +101,6 @@ Find out more at https://ggplot2.tidyverse.org/
 [39]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20position%20adjustment/position_dodge().ipynb
 [40]: https://ggplot2.tidyverse.org/reference/position_identity.html
 [41]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20position%20adjustment/position_jitter().ipynb
+[42]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20position%20adjustment/position_jitterdodge().ipynb
+[43]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20position%20adjustment/position_nudge().ipynb
+[44]: https://github.com/Anacoder1/ggplot2_Reference/blob/master/Layers%20-%20position%20adjustment/position_stack().ipynb
